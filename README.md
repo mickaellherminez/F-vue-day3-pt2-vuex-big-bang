@@ -23,6 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+Étape 1:
 
 La ligne de commande pour instancier le projet ```vue create f-vue-day3-pt2-vuex-big-bang```
 
@@ -41,4 +42,8 @@ Durant l’installation de l’application, à la requête:
 ⁃ ```Pick additional lint features``` choisir ```Lint on save```
 
 ⁃ ```Save this as a preset for future projects? (y/N)``` choisir ```N```
+
+Étape 2:
+
+Ajouter Vuetify avec la ligne de commande suivante ```vue add vuetify```
 
